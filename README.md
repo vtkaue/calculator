@@ -1,6 +1,6 @@
 # Calculator
 
-> see the project : 
+> see the project : https://vtkaue.github.io/calculator/
 
 <img src="./assets/calculator-finalized.png"  widht="250px" alt="calculator-image">
 
